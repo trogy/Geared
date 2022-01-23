@@ -1,2 +1,2 @@
 # Geared
-Welcome to Geared the Lightweight Easy to use framework by Trogy.NZ
+Welcome to Geared the Lightweight Easy to use proceedural PHP framework by Trogy.NZ
