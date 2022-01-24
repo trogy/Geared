@@ -14,6 +14,6 @@ Welcome to Geared the Lightweight Easy to use proceedural PHP framework by Trogy
 - XAMPP 8.1.1+
 
 #### How To Install
-Upload Files to /var/www/(Your Choice) (LINUX) or C:/xampp/htdocs
-Create a VirtualHost Pointing to Public Folder.
-(More to Come)
+Upload Files to /var/www/(Your Choice) (LINUX) or C:/xampp/htdocs  
+Create a VirtualHost Pointing to Public Folder.  
+(More to Come)  
