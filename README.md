@@ -4,7 +4,7 @@ Welcome to Geared the Lightweight Easy to use proceedural PHP framework by Trogy
 # Install
 --
 #### System Requirements
-> Geared is NOT compatible with Composer and does not require Composer
+> Geared is NOT compatible with Composer and does not require Composer  
 > Geared Has Been Tested In The Following Environment/s
 ##### Linux
 - Ubuntu Server 18.04LTS+ (Preferable)
